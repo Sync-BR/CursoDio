@@ -1,0 +1,8 @@
+com\telefonia\aulainterface\interfaces\ScanerINT.class
+com\telefonia\aulainterface\extend\Scanner.class
+com\telefonia\aulainterface\configurationScanner.class
+com\telefonia\aulainterface\interfaces\inpressoraINT.class
+com\telefonia\aulainterface\confuguration.class
+com\telefonia\aulainterface\extend\Impressora.class
+com\telefonia\aulainterface\multifuncional.class
+com\telefonia\aulainterface\AulaInterface.class
