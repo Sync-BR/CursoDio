@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c185c70c-8ebd-4a1a-a0fc-483ee7a7235b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ContaBanco" beforeDir="false" afterPath="$PROJECT_DIR$/ContaBanco" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContaBanco/src/main/java/com/banco/util/ContaTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/ContaBanco/src/main/java/com/banco/util/ContaTerminal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContaBanco/target/classes/com/banco/util/ContaTerminal.class" beforeDir="false" afterPath="$PROJECT_DIR$/ContaBanco/target/classes/com/banco/util/ContaTerminal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContaBanco/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ContaBanco/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContaBanco/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ContaBanco/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamApi/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamApi/src/predicate/PredicateExemple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +45,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.227" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.227" />
       </set>
     </attachedChunks>
   </component>
@@ -63,10 +60,22 @@
       <updated>1726827954314</updated>
       <workItem from="1726827956642" duration="65000" />
       <workItem from="1727699983853" duration="107000" />
+      <workItem from="1731582851990" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
